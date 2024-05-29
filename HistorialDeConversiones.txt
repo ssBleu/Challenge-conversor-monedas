@@ -1,0 +1,3 @@
+Historial de Conversiones:[
+(monedaOrigen='ARS', monedaDestino='USD', valorIngresado='563456.00', valorConvertido='651.36', fechaHora='2024-05-29 12:44:46'), 
+(monedaOrigen='COP', monedaDestino='USD', valorIngresado='3434.00', valorConvertido='0.89', fechaHora='2024-05-29 12:44:52')]
