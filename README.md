@@ -25,6 +25,8 @@ Este proyecto está terminado. No se esperan más desarrollos o actualizaciones.
 
 ## Características de la aplicación y demostración
 
+Es necesaria la bilioteca Gson 2.10.1 para el correcto funcionamiento del programa -> [descargar](https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1) 
+
 - Conversión de divisas en tiempo real.
   El usuario puede escoger la conversión entre monedas gracias a las tasas de cambio proporcionadas por la API asegura una conversión con precisión con los valores actuales del mercado.
 
@@ -58,7 +60,7 @@ git clone https://github.com/ssBleu/Challenge-conversor-monedas.git
 - IDE: IntelliJ IDEA
 - JDK 17
 - [ExchangeRate API](https://www.exchangerate-api.com)
-- [Biblioteca Gson](https://github.com/google/gson) Version 2.10.1
+- [Biblioteca Gson](https://github.com/google/gson) Version 2.10.1 [Descargar](https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1) 
 
 ## Desarrollador del Proyecto  
 |[<img src="https://avatars.githubusercontent.com/u/107319073?v=4" width=115><br><sub>Jhosep Loayza Apeña</sub>](https://github.com/ssBleu)|
