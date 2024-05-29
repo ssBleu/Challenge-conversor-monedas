@@ -56,9 +56,9 @@ git clone https://github.com/ssBleu/Challenge-conversor-monedas.git
 ## Tecnologías utilizadas
 
 - IDE: IntelliJ IDEA
-- Java 8 +
+- JDK 17
 - [ExchangeRate API](https://www.exchangerate-api.com)
-- [Biblioteca Gson](https://github.com/google/gson)
+- [Biblioteca Gson](https://github.com/google/gson) Version 2.10.1
 
 ## Desarrollador del Proyecto  
 |[<img src="https://avatars.githubusercontent.com/u/107319073?v=4" width=115><br><sub>Jhosep Loayza Apeña</sub>](https://github.com/ssBleu)|
