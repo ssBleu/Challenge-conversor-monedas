@@ -1,74 +1,68 @@
-# Conversor de Divisas
+# Conversor de Moneda  ![release-date](https://img.shields.io/badge/release_date-%20august-blue) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-![Imagen de Portada](https://via.placeholder.com/800x300.png?text=Conversor+de+Divisas)
-
-## Insignias
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![License MIT](https://img.shields.io/badge/License-MIT-green)
+<div align="center">
+  <img src="https://github.com/ssBleu/Challenge-conversor-monedas/assets/107319073/9ca5d4a1-04c0-401f-8942-7edcf1d034c1" alt="Conversor-monedas" width="50%">
+</div>
 
 ## Índice
-
-* [Título e imagen de portada](#conversor-de-divisas)
-* [Insignias](#insignias)
-* [Índice](#índice)
 * [Descripción del proyecto](#descripción-del-proyecto)
 * [Estado del proyecto](#estado-del-proyecto)
 * [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
 * [Acceso al proyecto](#acceso-al-proyecto)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
-* [Personas Contribuyentes](#personas-contribuyentes)
-* [Personas Desarrolladores del Proyecto](#personas-desarrolladores-del-proyecto)
+* [Desarrollador del Proyecto](#desarrollador-del-proyecto)
 * [Licencia](#licencia)
-* [Conclusión](#conclusión)
 
 ## Descripción del proyecto
 
-Este proyecto es un Conversor de Divisas desarrollado en Java. Permite a los usuarios convertir valores entre diferentes monedas utilizando tasas de cambio en tiempo real obtenidas de una API externa. También mantiene un historial de conversiones y permite imprimir este historial en un archivo de texto.
+Este proyecto es un conversor de Divisas en Java que convierte valores entre monedas usando tasas de cambio en tiempo real de una API externa. Incluye historial de conversiones y opción para exportarlo a un archivo de texto.
 
 ## Estado del proyecto
 
-![Estado del Proyecto](https://img.shields.io/badge/status-en%20desarrollo-yellow)
+![Estado del Proyecto](https://img.shields.io/badge/status-%20terminado-green)
 
-El proyecto está actualmente en desarrollo. Las funcionalidades principales están implementadas, pero se planean mejoras y optimizaciones futuras.
+Este proyecto está terminado. No se esperan más desarrollos o actualizaciones.
 
 ## Características de la aplicación y demostración
 
 - Conversión de divisas en tiempo real.
+  El usuario puede escoger la conversión entre monedas gracias a las tasas de cambio proporcionadas por la API asegura una conversión con precisión con los valores actuales del mercado.
+
+<div align="center">
+  <img src="https://github.com/ssBleu/Challenge-conversor-monedas/assets/107319073/eae86b15-2a28-44d0-bac7-b0e58928a012" alt="Conversor-monedas" width="30%">
+</div>
+  
 - Historial de conversiones.
+  Registra todas las conversiones realizadas por el usuario durante la sesión de uso del programa.
+  <div align="center">
+    <img src="https://github.com/ssBleu/Challenge-conversor-monedas/assets/107319073/93361189-f08c-4881-a782-721f4067c861" alt="Conversor-monedas" width="60%">
+    </div>
+
 - Impresión del historial en un archivo de texto.
+  Ofrece la capacidad de exportar el historial de conversiones a un archivo de texto.
 
-Ejemplo de uso:
-
-1. Seleccione la opción de conversión.
-2. Ingrese el valor a convertir.
-3. Obtenga el valor convertido.
-4. Revise el historial de conversiones si lo desea.
+  <div align="center">
+  <img src="https://github.com/ssBleu/Challenge-conversor-monedas/assets/107319073/e91c2de9-9919-4c3f-98a3-fa08d5a20de6" alt="Conversor-monedas" width="30%">
+ </div>
 
 ## Acceso al proyecto
 
 Puedes acceder al proyecto clonando el repositorio:
 
-\## 📁 Acceso al proyecto
-
-git clone https://github.com/tu_usuario/tu_proyecto.git
-
-\## 🛠️ Abre y ejecuta el proyecto
-
-git clone https://github.com/tu_usuario/tu_proyecto.git
+```bash
+git clone https://github.com/ssBleu/Challenge-conversor-monedas.git
+```
 
 ## Tecnologías utilizadas
 
-Java 20
-ExchangeRate-API
-Biblioteca Gson
+- IDE: IntelliJ IDEA
+- Java 8 +
+- [ExchangeRate API](https://www.exchangerate-api.com)
+- [Biblioteca Gson](https://github.com/google/gson)
 
-## Personas Contribuyentes
-Agradecimientos a todas las personas que han contribuido al proyecto:
+## Desarrollador del Proyecto  
+|[<img src="https://avatars.githubusercontent.com/u/107319073?v=4" width=115><br><sub>Jhosep Loayza Apeña</sub>](https://github.com/ssBleu)|
+| :---: |
 
-Contribuyente 1
-Contribuyente 2
-## Personas Desarrolladores del Proyecto
-Desarrollador Principal: Jhosep Loayza Apeña
 ## Licencia
-Este proyecto está bajo la Licencia MIT. Mira el archivo LICENSE para más detalles.
+Este proyecto no está bajo ninguna licencia específica. Está invitado a contribuir en el proyecto.
